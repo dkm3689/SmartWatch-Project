@@ -10,7 +10,7 @@ A simple smart watch interface built using **HTML**, **CSS**, and **JavaScript**
 
 ## Installation
 1. Clone or download the project.
-2. Open `index.html` in your browser.
+2. Open `smartWatch.html` in your browser.
 
 ```bash
 git clone https://github.com/your-username/smart-watch.git
