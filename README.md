@@ -4,8 +4,7 @@
 A simple smart watch interface built using **HTML**, **CSS**, and **JavaScript**. Features include a real-time clock, date display, and basic smart watch functionality.
 
 ## Features
-- Real-time clock (HH:MM:SS)
-- Date display (Day, Month, Year)
+- Real-time smart watch
 - Interactive, responsive design
 
 ## Installation
