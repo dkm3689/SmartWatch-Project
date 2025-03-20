@@ -14,7 +14,7 @@ A simple smart watch interface built using **HTML**, **CSS**, and **JavaScript**
 ```bash
 git clone https://github.com/your-username/smart-watch.git
 cd smart-watch
-open index.html
+open smartWatch.html
 
 ## Technologies
 - **HTML5**: Provides the structure for the watch interface.
